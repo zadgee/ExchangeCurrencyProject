@@ -11,3 +11,4 @@ Asynchronus work with threads  : Coroutines
 Language : Kotlin(oops, you already saw that)
 Realization of Rest API : Retrofit2, Okhttp, LoggingInterceptor.
 
+studio64_o9fMJ93F8Q.png it's a screen which show how app looks like.
